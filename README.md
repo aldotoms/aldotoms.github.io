@@ -1,4 +1,3 @@
-# aldotoms.github.io
 # Hola, soy Tom 👋
 
 Apasionado por la ciencia de datos aplicada a manufactura y supply chain—convirtiendo datos en decisiones.
