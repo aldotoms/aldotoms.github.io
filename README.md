@@ -18,6 +18,14 @@ Cuento con una trayectoria sólida en el sector industrial, lo que me permite en
 
 ---
 
+## 🚀 Proyecto Destacado
+
+| Proyecto | Descripción | Tecnologías | Link |
+| :--- | :--- | :--- | :---: |
+| **Análisis de Deserción de Clientes "Churn" en Telecomunicaciones** | Una empresa de relecomunicaciones que ofrece servicios de telefonía e internet, entre otros; necesita saber qué clientes son probables desertores de contratar sus servicios. Ha registrado varias características de su cartera a lo largo de varios años y con dicha información, se genera un modelo de clasificación que tiene como objetivo identificar los factores clave que influyen en la pérdida de los clientes.. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `Catboost` | [Ver Proyecto ➔](https://github.com/aldotoms/Portafolio_DS) |
+
+---
+
 ## 🚀 Proyectos con Impacto
 *Haz clic en la imagen para ver el caso de estudio.*
 
