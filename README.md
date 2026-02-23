@@ -45,7 +45,8 @@ Cuento con una trayectoria sólida en el sector industrial, lo que me permite en
 ---
 
 ## 🚴 Más allá de los datos
-Cuando no estoy analizando datasets, me encontrarás explorando el bosque en bicicleta de montaña. Creo firmemente que la disciplina del deporte y la claridad mental del bosque se reflejan en la precisión y orden de mi documentación técnica.
+Cuando no estoy analizando datasets, me encontrarás explorando el bosque en bicicleta de montaña, viajando con mi esposa o entrenando con mi perrita border collie llamada Bekka.
+Creo firmemente que la disciplina del deporte y la claridad mental de salir a lugares nuevos, se reflejan en la precisión y orden de mi formación técnica.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/bici-bosque.jpg" width="300" alt="Bici en el bosque" />
