@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
 </p>
 
-# Aldo Tomás Orduña Fabila | Data Scientist & Demand Planning
+# Data Scientist & Demand Planning
 > **Transformando la experiencia en Planeación a través de la analítica avanzada.**
 
 <p align="center">
@@ -16,24 +16,13 @@
 
 ---
 
-## 🎯 Mi Propuesta de Valor: Datos con Propósito Industrial
+## 🎯 Mi Propuesta de Valor: Datos con Propósito
 Cuento con una trayectoria sólida en el sector industrial, lo que me permite entender los "dolores" reales de la cadena de suministro y la operación. Mi transición a la Ciencia de Datos no es un inicio desde cero; es una evolución técnica para potenciar la toma de decisiones basada en evidencia y optimizar procesos complejos.
-
-🛠️ Lo que traigo a la mesa (Mis "Descubrimientos")
-En mi paso por el Acelerador de Carrera, he transformado datos crudos en soluciones estratégicas:
-
-- Predicción de Churn: Identificación proactiva de fuga de clientes para asegurar la retención. 📉
-- Computer Vision: Implementación de modelos para detección de edad, aplicables a seguridad y analítica. 👁️
-- NLP & Sentiment Analysis: Clasificación inteligente de reseñas para entender la voz del cliente. 🗣️
-
----
 
 ✨ Valores que guían mi trabajo
 - Autonomía y Curiosidad: 🧭 Soy un aprendiz constante. Disfruto explorar nuevas tecnologías a mi propio ritmo para mantenerme a la vanguardia.
 - Utilidad Práctica: 🛠️ No busco solo "modelos elegantes", sino soluciones que resuelvan problemas reales y generen impacto inmediato.
 - Generosidad Técnica: 🤝 Creo firmemente que el conocimiento se multiplica al compartirse. Me encanta mentorear y simplificar conceptos complejos.
-
----
 
 🧬 Perfil y Personalidad
 - Solucionador Metódico: 🧩 Ante un reto técnico, mi enfoque es la perseverancia y el análisis estructurado.
@@ -72,24 +61,17 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 
 ## 🚀 Proyectos Destacados
 
+🛠️ Lo que traigo a la mesa, en mi paso por el Bootcamp de Ciencia de Datos de TripleTen, he transformado datos crudos en soluciones estratégicas:
+
+- Predicción de Churn: Identificación proactiva de fuga de clientes para asegurar la retención. 📉
+- Computer Vision: Implementación de modelos para detección de edad, aplicables a seguridad y analítica. 👁️
+- NLP & Sentiment Analysis: Clasificación inteligente de reseñas para entender la voz del cliente. 🗣️
+
 | Proyecto | Descripción | Tecnologías | Link |
 | :--- | :--- | :--- | :---: |
 | **Análisis de Deserción de Clientes "Churn" en Telecomunicaciones** | Una empresa de relecomunicaciones que ofrece servicios de telefonía e internet, entre otros; necesita saber qué clientes son probables desertores de contratar sus servicios. Ha registrado varias características de su cartera a lo largo de varios años y con dicha información, se genera un modelo de clasificación que tiene como objetivo identificar los factores clave que influyen en la pérdida de los clientes.. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `Catboost` | [Ver Proyecto ➔](https://github.com/aldotoms/analisis-desercion-clientes-telecom) |
 | **Análisis de imágenes de rostros para detección de menores de edad en un supermercado** | A una cadena de supermercados le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. | Lenguaje: Python 3.x, Deep Learning: [TensorFlow/Keras o PyTorch], Procesamiento de Imágenes: OpenCV / Pillow, Análisis de Datos: Pandas, Numpy, Matplotlib, Infraestructura: Google Colab (GPU: Tesla T4/L4) | [Ver Proyecto ➔](https://github.com/aldotoms/computer-vision-supermarket) |
 | **Clasificador de Reseñas con NLP: De Bag-of-Words a BERT** | Este proyecto aborda el procesamiento de lenguaje natural mediante un pipeline que compara técnicas tradicionales (TF-IDF y BoW) frente a modelos avanzados de lenguaje. Se implementó un clasificador para procesar reseñas de usuarios, transformando texto no estructurado en representaciones numéricas contextuales para mejorar la precisión en la categorización de contenido. | Lenguaje: Python, NLP: Transformers (BERT), Scikit-learn, NLTK, Análisis de Datos: Pandas, Numpy, Matplotlib, Modelado: MultinomialNB / Logistic Regression | [Ver Proyecto ➔](https://github.com/aldotoms/nlp-review-classifier) |
-
----
-
-## 🛠️ Expertise Técnico
-
-### **Análisis y Modelado**
-| Área | Herramientas |
-| :--- | :--- |
-| **Análisis de Datos** | Python (Pandas, NumPy), SQL (MySQL, PostgreSQL) |
-| **Modelado ML** | Scikit-Learn, TensorFlow, Pytorch, Transformers |
-| **Visualización** | Power BI, sweetviz, Plotly, Seaborn, Matplotlib |
-| **Herramientas** | Git, GitHub, Jupyter, VS Code |
-| **Plataformas Web** | Databricks |
 
 ---
 
@@ -123,4 +105,4 @@ Creo firmemente que la disciplina del deporte y la claridad mental de salir a lu
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldotoms&color=0078D4&style=flat-square&label=Vistas+al+sitio" />
 </p>
-*Última actualización: Febrero 2026*
+*Última actualización: Marzo 2026*
