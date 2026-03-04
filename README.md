@@ -98,7 +98,7 @@ Creo firmemente que la disciplina del deporte y la claridad mental de salir a lu
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldotoms@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasorduna-datascientist/)
-[![Website](https://img.shields.io/badge/Personal_Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
+[![Website](https://img.shields.io/badge/Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
 
 ---
 
