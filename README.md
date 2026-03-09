@@ -5,15 +5,6 @@
 # Data Scientist & Demand Planning
 > **Transformando la experiencia en Planeación a través de la analítica avanzada.**
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/data-configuration.png" width="100" />
-</p> 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aldotoms/"><b>LinkedIn</b></a> • 
-  <a href="mailto:aldotoms@hotmail.com"><b>Contacto</b></a> • 
-  <a href="https://github.com/aldotoms"><b>GitHub</b></a>
-</p>
-
 ---
 
 ## 🎯 Mi Propuesta de Valor: Datos con Propósito
@@ -39,6 +30,18 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 
 ---
 
+## 🚀 Video CV en menos de 1 minuto: De Supply Chain a Data Science.
+¿Buscas un perfil que domine los datos y entienda el negocio? 
+En menos de 60 segundos, te presento mi evolución profesional y las herramientas que utilizo (Python, SQL, Excel & Power BI) para generar valor.
+
+<div align="center">
+  <div style="max-width: 700px;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/zQOXbbqBCPM?si=rFi4F6um603l11zp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### **Análisis y Modelado**
@@ -56,6 +59,7 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 ![Sweetviz](https://img.shields.io/badge/Sweetviz-FF5733?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAlBQAsS/f//+f+TIEXwS/Pz58/8/f/7gk2D79u3/yZInpADZ8uRZAAMDA8P///8Z6BIAAFb9IIn8Y8UAAAAASUVORK5CYII=&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=seaborn&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ---
 
@@ -72,6 +76,7 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 | **Análisis de Deserción de Clientes "Churn" en Telecomunicaciones** | Una empresa de relecomunicaciones que ofrece servicios de telefonía e internet, entre otros; necesita saber qué clientes son probables desertores de contratar sus servicios. Ha registrado varias características de su cartera a lo largo de varios años y con dicha información, se genera un modelo de clasificación que tiene como objetivo identificar los factores clave que influyen en la pérdida de los clientes.. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `Catboost` | [Ver Proyecto ➔](https://github.com/aldotoms/analisis-desercion-clientes-telecom) |
 | **Análisis de imágenes de rostros para detección de menores de edad en un supermercado** | A una cadena de supermercados le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. | Lenguaje: Python 3.x, Deep Learning: [TensorFlow/Keras o PyTorch], Procesamiento de Imágenes: OpenCV / Pillow, Análisis de Datos: Pandas, Numpy, Matplotlib, Infraestructura: Google Colab (GPU: Tesla T4/L4) | [Ver Proyecto ➔](https://github.com/aldotoms/computer-vision-supermarket) |
 | **Clasificador de Reseñas con NLP: De Bag-of-Words a BERT** | Este proyecto aborda el procesamiento de lenguaje natural mediante un pipeline que compara técnicas tradicionales (TF-IDF y BoW) frente a modelos avanzados de lenguaje. Se implementó un clasificador para procesar reseñas de usuarios, transformando texto no estructurado en representaciones numéricas contextuales para mejorar la precisión en la categorización de contenido. | Lenguaje: Python, NLP: Transformers (BERT), Scikit-learn, NLTK, Análisis de Datos: Pandas, Numpy, Matplotlib, Modelado: MultinomialNB / Logistic Regression | [Ver Proyecto ➔](https://github.com/aldotoms/nlp-review-classifier) |
+| **Análisis de Datos en Databricks** | Dashboard interactivo desarrollado en la nube para visualización de métricas clave. | csv, SQL, Databricks | [Ver Dashboard](https://dbc-678e718b-4f36.cloud.databricks.com/dashboardsv3/01f11b6f64af1435adea843e0de2813e/published?o=3199042490475837) |
 
 ---
 
