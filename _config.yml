@@ -1,6 +1,8 @@
 title: Aldo Tomás Orduña Fabila
-description: Ingeniero Industrial | Ciencia de Datos | Planeación de la Demanda
+logo: /assets/img/perfil.png # Asegúrate de que el nombre coincida con tu archivo
+description: Ciencia de Datos | Ingeniero Industrial | Planeación de la Demanda | 📍Hidalgo, México.
 remote_theme: pages-themes/minimal@v0.2.0
 google_analytics: # Deja vacío por ahora si no tienes
 show_downloads: false
-logo: /assets/img/perfil.png # Asegúrate de que el nombre coincida con tu archivo
+plugins:
+- jekyll-remote-theme
