@@ -2,9 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
-.sidebar-avatar {
+// Selector específico para la imagen de perfil en el tema Minimal
+header img {
   border-radius: 50%;
   width: 150px;
   height: 150px;
   object-fit: cover;
+  display: block;
+  margin: 0 auto 20px; // Centra la imagen y da espacio abajo
 }
