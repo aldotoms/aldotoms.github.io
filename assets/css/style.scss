@@ -5,9 +5,10 @@
 // Selector específico para la imagen de perfil en el tema Minimal
 header img {
   border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 200px;  // Aumentado de 150px a 200px
+  height: 200px; // Aumentado de 150px a 200px
   object-fit: cover;
   display: block;
-  margin: 0 auto 20px; // Centra la imagen y da espacio abajo
+  margin: 0 auto 20px; 
+  border: 3px solid #f0f0f0; // Opcional: añade un borde sutil para que resalte más
 }
