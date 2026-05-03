@@ -10,19 +10,18 @@ title: Data Scientist & Demand Planner
 ---
 
 ## 🎯 Mi Propuesta de Valor: Datos con Propósito
-Cuento con una **sólida trayectoria** en el sector industrial, lo que me permite entender los "dolores" reales de la cadena de suministro y la operación. Mi transición a la Ciencia de Datos no es un inicio desde cero; es una evolución técnica para potenciar la toma de decisiones basada en evidencia y optimizar procesos complejos.
+Cuento con una sólida trayectoria en el sector industrial de manufactura, lo que me permite entender los problemas reales de la cadena de suministro y la operación. 
+Mi transición a la Ciencia de Datos no es un inicio desde cero; es una evolución tecnológica para potenciar la toma de decisiones basada en datos y optimizar procesos complejos.
 
 ### ✨ Valores que guían mi trabajo
-- **Autonomía y Curiosidad:** 🧭 Soy un aprendiz constante. Disfruto explorar nuevas tecnologías a mi propio ritmo para mantenerme a la vanguardia.
-- **Utilidad Práctica:** 🛠️ No busco solo "modelos elegantes", sino soluciones que resuelvan problemas reales y generen impacto inmediato.
-- **Generosidad Técnica:** 🤝 Creo firmemente que el conocimiento se multiplica al compartirse. Me encanta mentorear y simplificar conceptos complejos.
+- **Autonomía y Curiosidad:** 🧭 Soy un aprendiz constante. Disfruto explorar nuevas tecnologías para mantenerme a la vanguardia.
+- **Utilidad Práctica:** 🛠️ No busco solo modelos elegantes, sino soluciones que resuelvan problemas reales y generen impacto inmediato.
+- **Generosidad Técnica:** 🤝 Creo firmemente que el conocimiento se multiplica al compartirse. Me encanta mentorear y simplificar conceptos complejos a personal no técnico.
 
 ### 🧬 Perfil y Personalidad
 - **Solucionador Metódico:** 🧩 Ante un reto técnico, mi enfoque es la perseverancia y el análisis estructurado.
 - **Mentor Natural:** 🎤 Tengo la facilidad de traducir el lenguaje de los datos a términos de negocio que todos puedan entender.
 - **Equilibrio y Humildad:** 🏠 Valoro el silencio de mi espacio para investigar, pero priorizo la conexión humana y el tiempo de calidad con mi familia.
-
----
 
 ## 🌱 Enfoque Actual
 En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualmente estoy profundizando en:
@@ -33,9 +32,17 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 ---
 
 ## 🚀 Video CV: De Supply Chain a Data Science
-¿Buscas un perfil que domine los datos y entienda el negocio? En el siguiente video presento mi evolución profesional y las herramientas que utilizo (**Python, SQL, Excel & Power BI**) para generar valor.
+¿Buscas un perfil que domine los datos y entienda el negocio? 
+En menos de 60 segundos, te presento mi evolución profesional y las herramientas que utilizo para generar valor.
 
-[**Ver Video CV en YouTube**](https://www.youtube.com/watch?v=zQOXbbqBCPM)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px;">
+  <iframe 
+    src="https://www.youtube.com/embed/zQOXbbqBCPM" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
@@ -51,7 +58,7 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 
 ## 🚀 Proyectos Destacados
 
-En mi paso por el Bootcamp de Ciencia de Datos de **TripleTen**, he transformado datos crudos en soluciones estratégicas:
+En mi paso por el Bootcamp de Ciencia de Datos de **TripleTen** y mi posición actual como **DEmand Planner**, he transformado datos crudos en soluciones estratégicas:
 
 | Proyecto | Descripción | Tecnologías | Link |
 | :--- | :--- | :--- | :---: |
@@ -63,18 +70,30 @@ En mi paso por el Bootcamp de Ciencia de Datos de **TripleTen**, he transformado
 ---
 
 ## 🚴 Más allá de los datos
-Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brindan mis pasiones:
+Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brindan mis pasiones y el tiempo de calidad con mi familia.
 
 - 🚵‍♂️ Recorriendo rutas en mi **bicicleta de montaña**.
-- ✈️ Viajando y descubriendo nuevos lugares con mi esposa **Naye**.
-- 🐾 Entrenando **Agility** con mi perrita **Bekka**.
+- ✈️ Viajando y descubriendo **nuevos lugares** con mi esposa.
+- 🐾 Entrenando **Agility** con mi perrita.
 
-![Mis Actividades](https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/yo_bekka.jpg)
-*Entrenando con Bekka*
-
-### 🚀 Mi meta: Desarrollar una carrera de aprendizaje continuo donde pueda impactar positivamente a través de la tecnología.
+<div style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/bici-bosque.jpg" alt="Bici en el bosque" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
+    <p style="font-size: 12px; text-align: center; color: #666;">Explorando rutas en MTB</p>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/naye_yo.jpg" alt="Con mi esposa Naye" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
+    <p style="font-size: 12px; text-align: center; color: #666;">Viajando con Naye</p>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/yo_bekka.jpg" alt="Entrenando con Bekka" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
+    <p style="font-size: 12px; text-align: center; color: #666;">Agility con Bekka 🐾</p>
+  </div>
+</div>
 
 ---
+
+### 🚀 Mi meta: Desarrollar una carrera de aprendizaje continuo donde pueda impactar positivamente a través de la tecnología.
 
 ## 📫 Conecta conmigo
 ¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de **Ciencia de Datos, Machine Learning y NLP**.
@@ -83,5 +102,4 @@ Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brind
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasorduna-datascientist/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldotoms)
 
----
 *Última actualización: Mayo 2026*
