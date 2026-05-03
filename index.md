@@ -11,23 +11,26 @@ title: Data Scientist & Demand Planner
 
 ## 🎯 Mi Propuesta de Valor: Datos con Propósito
 Cuento con una sólida trayectoria en el sector industrial de manufactura, lo que me permite entender los problemas reales de la cadena de suministro y la operación. 
-Mi transición a la Ciencia de Datos no es un inicio desde cero; es una evolución tecnológica para potenciar la toma de decisiones basada en datos y optimizar procesos complejos.
+Mi transición a la Ciencia de Datos no es un inicio desde cero; es una evolución tecnológica para potenciar la toma de decisiones basada en datos, resolver problemas más complejos  y optimizar procesos.
 
 ### ✨ Valores que guían mi trabajo
-- **Autonomía y Curiosidad:** 🧭 Soy un aprendiz constante. Disfruto explorar nuevas tecnologías para mantenerme a la vanguardia.
+- **Autonomía y Curiosidad:** 🧭 Soy un aprendiz constante, disfruto explorar nuevas tecnologías para mantenerme a la vanguardia.
 - **Utilidad Práctica:** 🛠️ No busco solo modelos elegantes, sino soluciones que resuelvan problemas reales y generen impacto inmediato.
-- **Generosidad Técnica:** 🤝 Creo firmemente que el conocimiento se multiplica al compartirse. Me encanta mentorear y simplificar conceptos complejos a personal no técnico.
+- **Generosidad Técnica:** 🤝 Creo firmemente que el conocimiento se multiplica al compartirse, me encanta mentorear y simplificar conceptos complejos a personal no técnico.
 
 ### 🧬 Perfil y Personalidad
 - **Solucionador Metódico:** 🧩 Ante un reto técnico, mi enfoque es la perseverancia y el análisis estructurado.
 - **Mentor Natural:** 🎤 Tengo la facilidad de traducir el lenguaje de los datos a términos de negocio que todos puedan entender.
 - **Equilibrio y Humildad:** 🏠 Valoro el silencio de mi espacio para investigar, pero priorizo la conexión humana y el tiempo de calidad con mi familia.
 
-## 🌱 Enfoque Actual
-En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualmente estoy profundizando en:
-* **MLOps:** Despliegue de modelos y automatización de pipelines.
-* **Computer Vision:** Aplicación en control de calidad para manufactura.
-* **NLP:** Procesamiento de reportes técnicos y feedback de cadena de suministro.
+### 🌱 Enfoque Actual
+Tras consolidar mi experiencia en analítica aplicada a la industria en 2025, mi enfoque se centra en fortalecer los pilares fundamentales del ciclo de vida de los datos:
+- **Ingeniería de Datos & ETL:** Especializándome en la limpieza, transformación y estructuración de grandes volúmenes de datos para asegurar su integridad y utilidad en procesos de negocio.
+- **Machine Learning Core:** Aplicación de modelos de Clasificación y Regresión para resolver problemas predictivos, optimización de hiperparámetros y validación cruzada.
+- **Análisis Exploratorio (EDA) Avanzado:** Identificación de patrones y correlaciones críticas que impactan directamente en la toma de decisiones estratégicas.
+
+### 🎯 Próximo Hito Profesional
+Actualmente me encuentro en preparación para obtener la certificación Databricks Machine Learning Associate Practitioner, con el objetivo de escalar estas soluciones hacia entornos de MLOps y automatización de pipelines en la nube.
 
 ---
 
@@ -98,7 +101,7 @@ Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brind
 ### 🚀 Mi meta: Desarrollar una carrera de aprendizaje continuo donde pueda impactar positivamente a través de la tecnología.
 
 ## 📫 Conecta conmigo
-¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de **Ciencia de Datos, Machine Learning y NLP**.
+¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de **Ciencia de Datos & Machine Learning**.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldotoms@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasorduna-datascientist/)
