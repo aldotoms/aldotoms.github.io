@@ -3,7 +3,7 @@ layout: default
 title: Data Scientist & Demand Planner
 ---
 
-# Data Scientist & Demand Planning
+# Data Scientist & Demand Planner
 
 > **Transformando la experiencia en Planeación a través de la analítica avanzada.**
 
@@ -58,10 +58,11 @@ En menos de 60 segundos, te presento mi evolución profesional y las herramienta
 
 ## 🚀 Proyectos Destacados
 
-En mi paso por el Bootcamp de Ciencia de Datos de **TripleTen** y mi posición actual como **DEmand Planner**, he transformado datos crudos en soluciones estratégicas:
+En mi paso por el Bootcamp de Ciencia de Datos de **TripleTen** y mi posición actual como **Demand Planner**, he transformado datos crudos en soluciones estratégicas:
 
 | Proyecto | Descripción | Tecnologías | Link |
 | :--- | :--- | :--- | :---: |
+| **Automatización de Workflow ECN** | Automatización de la extracción y procesamiento de Notificaciones de Cambios de Ingeniería desde Outlook para visualización en tiempo real. | `Outlook`, `Python`, `Excel`, `Power BI` | [Ver Proyecto ➔](https://github.com/aldotoms/ecn-workflow-automation) |
 | **Análisis de Deserción "Churn"** | Modelo de clasificación para identificar factores clave que influyen en la pérdida de clientes en telecomunicaciones. | `Python`, `Scikit-learn`, `PyCaret`, `XGBoost` | [Ver Proyecto ➔](https://github.com/aldotoms/analisis-desercion-clientes-telecom) |
 | **Detección de Menores (Computer Vision)** | Uso de Deep Learning para ayudar a supermercados a cumplir leyes de venta de alcohol mediante análisis de rostros. | `Python`, `TensorFlow`, `OpenCV`, `Keras` | [Ver Proyecto ➔](https://github.com/aldotoms/computer-vision-supermarket) |
 | **Clasificador de Reseñas (NLP)** | Pipeline que compara técnicas tradicionales frente a modelos avanzados (BERT) para categorizar contenido. | `Python`, `Transformers`, `BERT`, `NLTK` | [Ver Proyecto ➔](https://github.com/aldotoms/nlp-review-classifier) |
@@ -79,14 +80,15 @@ Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brind
 <div style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 200px;">
     <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/bici-bosque.jpg" alt="Bici en el bosque" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
-    <p style="font-size: 12px; text-align: center; color: #666;">Explorando rutas en MTB</p>
+    <p style="font-size: 12px; text-align: center; color: #666;">Explorando rutas en MTB 🚵‍♂️</p>
   </div>
   <div style="flex: 1; min-width: 200px;">
     <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/naye_yo.jpg" alt="Con mi esposa Naye" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
-    <p style="font-size: 12px; text-align: center; color: #666;">Viajando con Naye</p>
+    <p style="font-size: 12px; text-align: center; color: #666;">Viajando con Naye ✈️</p>
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/yo_bekka.jpg" alt="Entrenando con Bekka" style="border-radius: 8px; width: 100%; height: 200px; object-fit: cover; border: 1px solid #ddd;">
+    <!-- Cambio clave: object-fit: contain para ver la foto completa -->
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/yo_bekka.jpg" alt="Entrenando con Bekka" style="border-radius: 8px; width: 100%; height: 200px; object-fit: contain; border: 1px solid #ddd; background-color: #f9f9f9;">
     <p style="font-size: 12px; text-align: center; color: #666;">Agility con Bekka 🐾</p>
   </div>
 </div>
