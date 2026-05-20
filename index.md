@@ -28,7 +28,7 @@ title: Data Scientist | Demand Planning & Production and Inventory Management
     <img src="https://github.com/aldotoms/aldotoms.github.io/blob/main/assets/img/202682c9-ac06-4ba3-be41-9ea41d51c3f7.png" alt="Databricks Fundamentals Accreditation" height="110" style="margin-right: 20px;"/>
   </a>
   <a href="https://credentials.databricks.com/a7ed96d2-e4a5-492f-9c21-a7668751fd69#acc.PFDY2EX8" target="_blank">
-    <img src="https://github.com/aldotoms/aldotoms.github.io/blob/main/assets/img/Gemini_Generated_Image_emx6jpemx6jpemx7.PNG" alt="Data Preparation for Machine Learning Knowledge Badge" height="110"/>
+    <img src="https://github.com/aldotoms/aldotoms.github.io/blob/main/assets/img/b8f47e64-e377-4219-9909-6fc57ac27027.png" alt="Data Preparation for Machine Learning Knowledge Badge" height="110"/>
   </a>
 </p>
 
