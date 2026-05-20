@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Data Scientist & Demand Planner
+title: Data Scientist | Demand Planning & Production and Inventory Management
 ---
 
-# Data Scientist & Demand Planner
+# Data Scientist (TripleTen) | Demand Planning & Production and Inventory Management (CPIM)
 
 > **Transformando mi experiencia en Planeación a través de la Analítica avanzada de Datos.**
 
@@ -16,6 +16,24 @@ title: Data Scientist & Demand Planner
 
 ### **Visualización y Datos**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=seaborn&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+---
+
+## 🏅 Certifications & Accreditations
+
+* 💼 Verifies via my official **[Databricks Certification Wallet](https://credentials.databricks.com/profile/aldotomsorduafabila762728/wallet)**
+
+<p align="left">
+  <a href="https://credentials.databricks.com/22471999-039e-41a9-9085-139309c0b3d8#acc.nr9YOAmM" target="_blank">
+    <img src="https://github.com/aldotoms/aldotoms/blob/main/assets/202682c9-ac06-4ba3-be41-9ea41d51c3f7.png" alt="Databricks Fundamentals Accreditation" height="110" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://credentials.databricks.com/a7ed96d2-e4a5-492f-9c21-a7668751fd69#acc.PFDY2EX8" target="_blank">
+    <img src="https://github.com/aldotoms/aldotoms/blob/main/assets/b8f47e64-e377-4219-9909-6fc57ac27027.png" alt="Data Preparation for Machine Learning Knowledge Badge" height="110"/>
+  </a>
+</p>
+
+* **[Databricks Accredited Databricks Fundamentals](https://credentials.databricks.com/22471999-039e-41a9-9085-139309c0b3d8#acc.nr9YOAmM)** – Issued by Databricks Academy (May 2026)
+* **[Data Preparation for Machine Learning](https://credentials.databricks.com/a7ed96d2-e4a5-492f-9c21-a7668751fd69#acc.PFDY2EX8)** – Databricks Knowledge Badge
 
 ---
 
@@ -38,9 +56,6 @@ Tras consolidar mi experiencia en analítica aplicada a la industria en 2025, mi
 - **Ingeniería de Datos & ETL:** Especializándome en la limpieza, transformación y estructuración de grandes volúmenes de datos para asegurar su integridad y utilidad en procesos de negocio.
 - **Machine Learning Core:** Aplicación de modelos de Clasificación y Regresión para resolver problemas predictivos, optimización de hiperparámetros y validación cruzada.
 - **Análisis Exploratorio (EDA) Avanzado:** Identificación de patrones y correlaciones críticas que impactan directamente en la toma de decisiones estratégicas.
-
-### 🎯 Próximo Hito Profesional
-Actualmente me encuentro en preparación para obtener la certificación Databricks Machine Learning Associate Practitioner, con el objetivo de escalar estas soluciones hacia entornos de MLOps y automatización de pipelines en la nube.
 
 ---
 
@@ -98,7 +113,8 @@ Cuando no estoy analizando datasets, disfruto del equilibrio mental que me brind
 
 ---
 
-### 🚀 Mi meta: Desarrollar una carrera de aprendizaje continuo donde pueda impactar positivamente a través de la tecnología.
+### 🚀 Mi meta: 
+Desarrollar una carrera de aprendizaje continuo donde pueda impactar positivamente a través de la tecnología.
 
 ## 📫 Conecta conmigo
 ¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de **Ciencia de Datos & Machine Learning**.
